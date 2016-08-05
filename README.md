@@ -1,3 +1,3 @@
 # Python-Scripts
 
-![Python Logo](Python-Scripts/Images/python-logo.png)
+![Python Logo](/Images/python-logo.png)
